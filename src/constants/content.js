@@ -65,8 +65,7 @@ export const EXPERIENCES = [
 //   },
 // ];
 
-// export const CONTACT = {
-//   address: "767 Fifth Avenue, New York, NY 10153 ",
-//   phoneNo: "+12 4555 666 00 ",
-//   email: "me@example.com",
-// };
+export const CONTACT = {
+  phoneNo: "+91 8586997581",
+  email: "neerajsngwn2017@gmail.com",
+};
