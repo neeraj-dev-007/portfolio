@@ -16,4 +16,4 @@ To Do:-
 4. update Readme.md file
 5. Github profile bio update.
 6. Update Projects section with bookYourRoom link.
-
+7. Add Tooltips :- https://www.npmjs.com/package/@tippyjs/react
