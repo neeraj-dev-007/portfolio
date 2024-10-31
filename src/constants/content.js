@@ -5,7 +5,14 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "Jan 2024 - Present",
+    year: "May 2024 - Present",
+    role: "Software Engineer",
+    company: "Turinix",
+    description: `Built a React Native application from scratch for a USA-based restaurant chain, incorporating location selection with Google Maps APIs, a 'Build Your Own' customizable meal feature, OLO payment integration, and an advanced item bag with editing, adding, and duplicating functionality. Used a polling API to track order status post-purchase.`,
+    technologies: ["React Native", "Redux Toolkit", "TypeScript", "Expo", "Tailwind CSS", "Go", "gRPC"],
+  },
+    {
+    year: "Jan 2024 - Apr 2024",
     role: "Software Engineer - II",
     company: "Zenon Analytics",
     description: `Developed and designed a B2B SaaS application for Master Data Management. Developed user interfaces using React.js and implemented back-end RESTful APIs using Java, Springboot and integrated with MySQL database. Collaborated with stakeholders to define project requirements and delivered withing the specified timelines.`,
